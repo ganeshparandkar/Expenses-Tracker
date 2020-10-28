@@ -1,5 +1,3 @@
-# https://ganeshparandkar.github.io/Expenses-Tracker/
-
 # Getting Started with Create React App
 
 
